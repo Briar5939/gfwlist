@@ -292,6 +292,7 @@
 ||terabox.app
 ||searx.space
 ||rethinkdns.com
+||portableappk.com
 
 !##############General List Start###############
 !-------------------Coin Pool-------------------
