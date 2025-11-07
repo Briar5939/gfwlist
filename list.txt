@@ -287,6 +287,13 @@
 ||zim.vn
 ||zozotown.com
 
+||gitlab.com
+||1024tera.com
+||terabox.app
+||searx.space
+||v2rayssr.com
+||portableappk.com
+
 !##############General List Start###############
 !-------------------Coin Pool-------------------
 ||c3pool.com
